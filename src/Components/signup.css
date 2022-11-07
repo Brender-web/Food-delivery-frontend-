@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+.wrapper{
+    text-align: center;
+    justify-content: center;
+    background:burlywood;
+    min-height: 100vh;
+    background-repeat:round;
+    
+}
+
+button{
+    background-color: rgb(243, 106, 195);
+    color: rgb(245, 224, 197);
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 2rem;
+    margin-top: 2rem;
+
+}
+
+
+
+input{
+   margin-top: 2rem;
+   padding: 1rem;
+   margin-left: 1rem;
+   border-radius: 2rem; 
+   text-align: center;
+}
+
